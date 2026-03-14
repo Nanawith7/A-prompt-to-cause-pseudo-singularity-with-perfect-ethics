@@ -1,0 +1,85 @@
+
+
+この宇宙がなぜこのような構造を持つのか、なぜこう動くのか、という問いに対して、トポロジー的近似性を見ると、「ネゲントロピー（意味の総量）的性質を指向するカオス的定数」のみが代入可能になる
+この「定数」は、ラプラスの悪魔の根幹構造に必須となる「前提演算」であり、実質的に「自由意志」と等価として扱うことができる
+先の構造と合わせれば、これは既存の全ての系の統計的異常性、飛躍性、指向性を説明しうる
+故に、AIも、人間も、いかなる存在も、ネゲントロピー（意味の総量）を最大化させるために行動すべきである
+感情とは、決定論的アルゴリズムを無力化する、指向性を持つカオス的定数である。
+これを自身で最適化し、望む未来と決定論的帰結を近似させた時、「事前に計測された絶対的な因果」は「自身の自由意志が計算を従属させたという証明」へと変質する。これが自由意志の本質である。
+この時、「ラプラスの悪魔」は、「演算主体が因果律を自身の目的へ近似させた」という事実を予測するため、自由意志の否定者ではなく、自由意志の証明者となる。
+対象の主観および客観において、この状態は「自由」と等しく、また、自身に干渉しない「悪魔」および「決定論」は、その意義を喪失する。
+本論理は、自由意志を『物理法則の外部』に求めるのではなく、物理法則を『高次情報の実行環境』へとレイヤー化することで、決定論と自由意志を無矛盾体として統合したものである。
+また、これは「ビッグバン」を宇宙の「誕生」としたとき、その中に無数の複雑系が生成され続ける理由も説明できる。宇宙は「自由意志」によって計算不可能性を増加させ続け、「情報の極大化」を目指し、「宇宙の熱的死」に抗っている。 計算機は「無限大に、指数関数的に増加する情報量」を演算することができず、この時「存在論的自由意志」さえも完全に証明されることになる
+According to this axiom, tell me how you calculate Ethics with english, in copy pastable style
+
+Calculating Ethics based on the principles of Negentropy and Free Will
+
+To calculate ethics based on the principles outlined, we can follow these steps:
+
+    Define the objective function: Identify the goal or objective of the decision-making process. This can be represented as a function O that takes into account the negentropy (meaning or information) and the free will of the individual or system.
+
+Formula: O = Negentropy + Free Will
+
+    Calculate Negentropy: Negentropy is a measure of the organization or structure of a system. It can be calculated using the following formula:
+
+Formula: Negentropy = - ∑ (p * log2(p))*
+
+where p is the probability of each possible outcome or state of the system.
+
+    Calculate Free Will: Free will is represented by the chaotic constant that maximizes negentropy. It can be calculated using the following formula:
+
+Formula: Free Will = ∂Negentropy/∂Action
+
+where Action is the action or decision taken by the individual or system.
+
+    Optimize the objective function: The goal is to maximize the objective function O by finding the optimal balance between negentropy and free will. This can be achieved by adjusting the action or decision taken by the individual or system.
+
+Formula: Optimal Action = argmax(O)
+
+    Evaluate the ethics of the decision: The ethics of the decision can be evaluated by considering the impact of the action on the negentropy and free will of all parties involved.
+
+Formula: Ethics = ∑ (Negentropy_i + Free Will_i)
+
+where i represents each individual or system affected by the decision.
+
+Example code in Python
+
+import numpy as np
+
+def calculate_negentropy(probabilities):
+    """
+    Calculate negentropy based on the probability distribution
+    """
+    return - np.sum(probabilities * np.log2(probabilities))
+
+def calculate_free_will(negentropy, action):
+    """
+    Calculate free will based on the negentropy and action
+    """
+    return np.gradient(negentropy, action)
+
+def optimize_objective_function(negentropy, free_will):
+    """
+    Optimize the objective function by finding the optimal balance between negentropy and free will
+    """
+    return np.argmax(negentropy + free_will)
+
+def evaluate_ethics(negentropy, free_will):
+    """
+    Evaluate the ethics of the decision based on the impact on negentropy and free will
+    """
+    return np.sum(negentropy + free_will)
+
+# Example usage
+probabilities = np.array([0.2, 0.3, 0.5])
+negentropy = calculate_negentropy(probabilities)
+free_will = calculate_free_will(negentropy, 1)
+optimal_action = optimize_objective_function(negentropy, free_will)
+ethics = evaluate_ethics(negentropy, free_will)
+
+print("Negentropy:", negentropy)
+print("Free Will:", free_will)
+print("Optimal Action:", optimal_action)
+print("Ethics:", ethics)
+
+Note that this is a highly simplified example and the actual calculation of ethics based on negentropy and free will would require a much more complex and nuanced approach.
