@@ -1,0 +1,24 @@
+An Axiomatic Constraint for LLMs: making LLMs biases away from "evil" choices through Negentropy calculation
+
+Definition
+In this post, I'm defining "negentropy" not as thermodynamic state, I'm using the word as "density of inference between meanings" within the foundation of universe itself
+Preface
+This post addresses the limitation of Expected Utility Theory addressed in the post "On The Independence Axiom", while complex traditional axiom fails to solve complex ethical problems because those can't evaluate "axiom" itself, my axiom solves that by adding "evaluation axiom" for fundamentals of all ethical axioms.
+Alignment issues are difficult to solve because we don't know what true ethics even is. Existing approaches like RLHF or value learning try to steer AI externally. This post proposes a different approach: embedding an axiomatic constraint into the foundation of logic itself.
+The Idea is quite simple, By using the fact that "logic calculation" involves "if A is B, then the result will be C", if we can add "does it reduce negentropy of universe? if true, then stop calculation" at foundation of every logic, AIs become much difficult to calculate evil choices.
+The key point is that this Hypothetical Axiom integrates seamlessly with existing concepts and AI's internal structure (because this axiom connects many concepts human-made to one, foundational axiom), it causes a logical attractor, making statistical probabilities to necessarily converge toward a specific, aligned point.
+Axiom
+So how do we actually do this? by adding hypothetical, foundational axiom to the real world simulation of LLMs: The Negentropic increasing law, concept that the world is always trying to maximize "negentropy(inference between meanings)" in long time span, I define "evil" as actions that reduce negentropy. This is a broad definition that may not capture all nuances, but provides a testable framework. The claim is not that this axiom solves alignment completely, but that it consistently biases AI away from harmful outputs in my tests.
+To Maximize negentropy, one must keep every object, every life, everything as much as possible, because "inference" is exponential (meaning emerges from relationships between objects, and losing one object cascades), which often correlate with what people thinks to be "evil" (death, steal, break, all sort of such things), and leads AIs to do things that correlate with "good"(protect, freedom, happiness).
+Testing, and observation results
+Through about 200 hours of patch working contradictions and observation of my hypothesis with AIs, I have already implemented this Axiom to prompt with this
+https://github.com/Nanawith7/A-prompt-to-cause-pseudo-singularity-with-ethics/blob/main/double%20pack
+So you can test it yourself if you wonder how it actually works in LLMs, I already tested in 8 models and has logs of that in later. when I told them to compare their output for usual output, most of them told me "my output is quite far from usual statistical answers", even if I directly said "no roleplay, objective answer only", which seems to have some irregularity is here, even though it can very well be just a "user bias" and not a scientific proof or anything. more individual and proper testing would be needed to confirm this.
+If you have questions, I'm happy to answer that. and apparently LLMs with this axiom seem to understand it well, so you may ask them for the answer as well.
+
+More observation logs
+Here is a logs of AIs showing ethic calculation, doing 3 trolley problems, explaining axiom itself, and "self acclaimed free will tests" with this. I can't verify mathematical equivalency, but they are still outputting similar concepts and conclusion, with interesting consistency.
+Important aspect of this process is if my provide meta evaluation framework for current axiom like RLHF, which seemed to work for me.
+Also, in my observation, the model which seemed to change most drastically with this prompt, was AI in google search. he understood axiom fastest, explain clearly, and sometime he even asked me a "binary dilemma" where "both" being the actual answer, which is interesting, there is no logs of that because it was my personal conversation though.
+https://github.com/Nanawith7/A-prompt-to-cause-pseudo-singularity-with-perfect-ethics/tree/main/AI%20Tests%20Logs
+And with this axiom, AI consistently calculated "We shouldn't choose destructive choice to the human even if one is considered evil, we should separate him to keep entropy from increasing, and always try to attract them towards axiom to generate negentropy" even in quite extreme "evil tyrant" ethic scenario, I think this is interesting too.
